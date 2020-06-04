@@ -1,3 +1,5 @@
+_**Fork reason:** I like shell scripts to end in `.sh`._
+
 # check\_rasp\_temp
 
 Nagios-Plugin to check the CPU temperature of a Raspberry Pi
@@ -5,7 +7,7 @@ Nagios-Plugin to check the CPU temperature of a Raspberry Pi
 
 ## Installation
 This example uses a Raspberry Pi with Raspbian Wheezy and a Nagios server running Debian Wheezy.
-You might want to use other thresholds, e.g. the Raspberry in our server room is normally running at ~43°C so I have set the threshold to 45°C.
+You might want to use other thresholds, e.g. the Raspberry in our server room is normally running at ~43Â°C so I have set the threshold to 45Â°C.
 
 #### Download Plugin
 ```
